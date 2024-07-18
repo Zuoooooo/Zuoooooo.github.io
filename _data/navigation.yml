@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-News"
+    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
@@ -16,7 +16,7 @@ main:
     url: "/#-educations"
 
   - title: "Internships & Research Experience"
-    url: "/#-Internships"
+    url: "/#-internships"
   
   - title: "Projects"
-    url: "/#-Projects"
+    url: "/#-projects"
