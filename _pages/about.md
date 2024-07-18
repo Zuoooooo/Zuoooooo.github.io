@@ -86,7 +86,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   <div class='paper-box-image'>
     <div>
       <div class="badge"></div>
-      <img src='images/project2.jpg' alt="sym" width="100%">
+      <img src='images/Project2.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
