@@ -97,5 +97,6 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
   [**PDF**](https://ischool.uw.edu/sites/default/files/capstone/2024/11704/iLease.pdf)
   - **Project Overview**：***Subletting*** is a common solution for University of Washington students struggling to cover high rents during breaks. However, finding suitable tenants often proves difficult. This financial pressure led our team to develop ***a reliable platform*** that connects *UW leaseholders with potential tenants*.
+    - **Project Overview**：***Subletting*** is a common solution for University of Washington students struggling to cover high rents during breaks. However, finding suitable tenants often proves difficult. This financial pressure led our team to develop ***a reliable platform*** that connects *UW leaseholders with potential tenants*.
   </div>
 </div>
