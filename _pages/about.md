@@ -93,7 +93,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
   **[iLease: The Easy Way to List and Find House](https://ischool.uw.edu/capstone/projects/2024/ilease-easy-way-list-and-find-house)**
 
-  **My Role:** UI/UX Designer
+  **My Role:** UI & UX Designer
 
   [**PDF**](https://ischool.uw.edu/sites/default/files/capstone/2024/11704/iLease.pdf)
   - **Project Overview**：***Subletting*** is a common solution for University of Washington students struggling to cover high rents during breaks. However, finding suitable tenants often proves difficult. This financial pressure led our team to develop ***a reliable platform*** that connects *UW leaseholders with potential tenants*.
