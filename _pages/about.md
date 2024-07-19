@@ -26,7 +26,7 @@ I have research experience at prestigious institutions such as the **Hong Kong U
 My research interests include **Cultural Heritage, Large Language Models(LLMs), and User Experiences**. I have led teams, conducted extensive user research, and developed innovative solutions, resulting in increased engagement and practical applications. My work has been recognized at top-tier conferences, and my passion lies in collaborative, interdisciplinary work aimed at advancing the HCI field..
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉  My first paper accepted by UbiComp/ ISWC 2024.
+- *2024.07*: &nbsp;🎉  My first paper accepted by UbiComp 2024.
 - *2024.06*: &nbsp;  I got my bachelor's degree from University of Washington.
 - *2024.05*: &nbsp;  I will pursue my master degree at Cornell University.
 
@@ -35,11 +35,11 @@ My research interests include **Cultural Heritage, Large Language Models(LLMs), 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp/ ISWC 2024</div><img src='images/dogchat_paper1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DogChat: A Pet-centered Smart Collar Prototype based on Large Language Models and Wechat](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DogChat: A Pet-centered Smart Collar Prototype based on Large Language Models and Wechat](https://doi.org/10.1145/3675094.3677606)
 
 Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
-[**Poster**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Poster**](https://doi.org/10.1145/3675094.3677606) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This study explores how large language models (LLMs) based smart collars can enable pets to express themselves and interact with their owners through social media. 
 - **The system operates in three phases**: Pet Profile Construction, Daily Experience Reconstruction, and Behavior Learning Integration. 
 </div>
