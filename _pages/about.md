@@ -19,11 +19,11 @@ redirect_from:
 
 # 🌱 About Me
 
-I am Zonglin Zuo, a master's student in Information Science at **Cornell University**, specializing in *Human-Computer Interaction (HCI) and UX Research*. I graduated Magna Cum Laude from the **University of Washington's [Information School](https://ischool.uw.edu/)** with a B.S. in Informatics, achieving a major GPA of 3.98.
+I am Zonglin Zuo, a master's student in [Information Science](https://infosci.cornell.edu/) at **[Cornell Bowers CIS](https://cis.cornell.edu/)**, specializing in *Human-Computer Interaction (HCI) and UX Research*. I graduated Magna Cum Laude from the **University of Washington's [Information School](https://ischool.uw.edu/)** with a B.S. in Informatics, achieving a major GPA of 3.98.
 
 I have research experience at prestigious institutions such as the **Hong Kong University of Science and Technology** and **Tsinghua University**. At Tsinghua University’s Future Lab, I collaborated with [Professor Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), [Dr. Cheng Xue](https://thfl.tsinghua.edu.cn/en/yjdw/Alumni1/Central_Organization1/Research_Center_for_Aging_User_Experience_and_Ser1/Cheng_Xue.htm), and [Xinran Jiang](https://www.nua.edu.cn/main.htm). At HKUST, I worked with [Assistant Professor Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) on HCI and cultural heritage research. 
 
-My research interests include **Cultural Heritage, Large Language Models(LLMs), and User Experiences**. I have led teams, conducted extensive user research, and developed innovative solutions, resulting in increased engagement and practical applications. My work has been recognized at top-tier conferences, and my passion lies in collaborative, interdisciplinary work aimed at advancing the HCI field..
+My interests include **Human-Computer Interaction, Cultural Heritage, Large Language Models(LLMs), and User Experiences**. I have led teams, conducted extensive user research, and developed innovative solutions, resulting in increased engagement and practical applications. My work has been recognized at top-tier conferences, and my passion lies in collaborative, interdisciplinary work aimed at advancing the HCI field.
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉  My first paper accepted by UbiComp 2024.
@@ -46,17 +46,18 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 </div>
 
 # 🎖 Honors and Awards
-- ***2024.07:*** Magna Cum Laude (top3%) from Information School
+- ***2024.08:*** Conference Travel Grant(Cornell Bowers CIS)
+- ***2024.07:*** Magna Cum Laude from Information School(University of Washington)
 - ***2021.09 - 2024.06:*** Annual Dean's List from University of Washington
 
 # 📖 Educations
 - ***2024.07 - 2025.05 (Now):***
-  <dd>Cornell University, M.S. in Information Science</dd>
+  <dd>Cornell University, Master in Information Science</dd>
 - ***2021.09 - 2024.06:***
   <dd>University of Washington, B.S. in Informatics</dd>
 
 # 💻 Internships
-- *2024.06 - Present*, Research Assistant, [Hongkong University of Science and Technology](https://www.hkust-gz.edu.cn/), Guangzhou, China.
+- *2024.06 - 2024.09*, Research Assistant, [Hongkong University of Science and Technology](https://www.hkust-gz.edu.cn/), Guangzhou, China.
 - *2023.06 - 2024.07*, UX Researcher, [Research Center for AeX, Future Lab, Tsinghua University](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm), Beijing, China.
 - *2023.11 - 2024.06*, Undergraduate Research Assistant, [University of Washington](https://www.washington.edu/), Seattle, USA.
 
@@ -77,7 +78,10 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
   [**PDF**](https://www.figma.com/proto/iuA8mChUQLdR6jM9Rcj9PG/Untitled?t=GvvruY2HTnZ6Gsk7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=0-447) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   - **Project Overview**：This project introduced an ***interactive platform*** for people from different cultural backgrounds to share and experience traditional cultures, promoting cultural heritage and education. It also encourages community members to actively participate, *building a diverse and inclusive cultural community*.
-
+  - **What I Did**: 
+  1. Led and managed project teams to ensure timely project delivery, utilizing Azure DevOps for efficient task allocation, progress tracking, and collaborative workflow optimization, resulting in the successful achievement of project milestones and objectives.
+  2. Conducted 20+ user interviews and 10 user testing for final product aimed at addressing cultural loss and bridging cultural gaps; 
+  3. Led UX research and case studies, identifying 13 pain points, 7 design opportunities, and creating 40 Figma mockups.
   </div>
 </div>
 
@@ -93,9 +97,13 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
   **[iLease: The Easy Way to List and Find House](https://ischool.uw.edu/capstone/projects/2024/ilease-easy-way-list-and-find-house)**
 
-  **My Role:** UI & UX Designer
+  **My Role:** UX Designer & Front-end Developer
 
   [**PDF**](https://ischool.uw.edu/sites/default/files/capstone/2024/11704/iLease.pdf)
   - **Project Overview**：***Subletting*** is a common solution for University of Washington students struggling to cover high rents during breaks. However, finding suitable tenants often proves difficult. This financial pressure led our team to develop ***a reliable platform*** that connects *UW leaseholders with potential tenants*.
+  - **What I Did**: 
+  1. Defined the problem statement and guided the project with 5 research questions, conducting a comprehensive literature review (30+ sources) and market research (26 studies), which were synthesized into 18 key insights using affinity mapping in Miro.
+  2. Developed user-centered designs by creating user personas, user flows, and over 30 UI interfaces in Figma, leading to the development of front-end code for the final MVP.
+  3. Validated the platform’s effectiveness through user testing with 5 participants, refining the design and ensuring usability.
   </div>
 </div>
