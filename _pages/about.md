@@ -21,9 +21,9 @@ redirect_from:
 
 I am Zonglin Zuo, a master's student in [Information Science](https://infosci.cornell.edu/) at **[Cornell Bowers CIS](https://cis.cornell.edu/)**, specializing in *Human-Computer Interaction (HCI) and UX Research*. I graduated Magna Cum Laude from the **University of Washington's [Information School](https://ischool.uw.edu/)** with a B.S. in Informatics, achieving a major GPA of 3.98.
 
-I have research experience at prestigious institutions such as the **Hong Kong University of Science and Technology** and **Tsinghua University**. At Tsinghua University’s Future Lab, I collaborated with [Professor Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), [Dr. Cheng Xue](https://thfl.tsinghua.edu.cn/en/yjdw/Alumni1/Central_Organization1/Research_Center_for_Aging_User_Experience_and_Ser1/Cheng_Xue.htm), and [Xinran Jiang](https://www.nua.edu.cn/main.htm). At HKUST, I worked with [Assistant Professor Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) on HCI and cultural heritage research. 
+I have research experience at prestigious institutions such as the **Hong Kong University of Science and Technology** and **Tsinghua University**. At Tsinghua University’s Future Lab, I collaborated with [Professor Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), [Dr. Cheng Xue](https://thfl.tsinghua.edu.cn/en/yjdw/Alumni1/Central_Organization1/Research_Center_for_Aging_User_Experience_and_Ser1/Cheng_Xue.htm), and [Xinran Jiang](https://www.nua.edu.cn/main.htm). At HKUST, I worked with [Professor Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) on HCI and cultural heritage research. 
 
-My interests include **Human-Computer Interaction, Cultural Heritage, Large Language Models(LLMs), and User Experiences**. I have led teams, conducted extensive user research, and developed innovative solutions, resulting in increased engagement and practical applications. My work has been recognized at top-tier conferences, and my passion lies in collaborative, interdisciplinary work aimed at advancing the HCI field.
+My interests include **Human-Computer Interaction, User Experiences, Cultural Heritage, and Large Language Models(LLMs)**. I have led teams, conducted extensive user research, and developed innovative solutions, resulting in increased engagement and practical applications. My work has been recognized at top-tier conferences, and my passion lies in collaborative, interdisciplinary work aimed at advancing the HCI field.
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉  My first paper accepted by UbiComp 2024.
@@ -58,11 +58,34 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
 # 💻 Internships
 - *2024.06 - 2024.09*, Research Assistant, [Hongkong University of Science and Technology](https://www.hkust-gz.edu.cn/), Guangzhou, China.
-- *2023.06 - 2024.07*, UX Researcher, [Research Center for AeX, Future Lab, Tsinghua University](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm), Beijing, China.
+- *2023.07 - 2024.07*, UX Researcher, [Research Center for AeX, Future Lab, Tsinghua University](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm), Beijing, China.
 - *2023.11 - 2024.06*, Undergraduate Research Assistant, [University of Washington](https://www.washington.edu/), Seattle, USA.
 
 # 💡 Projects
-<!-- Project1 Digital Culture Gathering -->
+<!-- Project1 Google Cloud UX Deisgn -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge"></div>
+      <img src='images/google3.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **[UX/UI for Google Cloud Product Discovery]()** - In Progress
+
+  **My Role:** UX Designer & Project Manager
+
+  **Project Sponsored By:** Google LLC
+  - **Project Overview**：Redesign how Cloud products are presented, using an e-commerce approach to help users easily "shop" for services. Deliverables include a UX design lifecycle with content strategy, user flows, and design mockups.
+  - **What I Did right now**: 
+  1. Lead projects and ensure alignment during disagreements, keeping the team on the right track.
+  2. Conduct in-depth competitive analysis to identify 7+ key opportunities. 
+  3. Perform UX and usability assessments to enhance user experience across multiple dimensions.
+  </div>
+</div>
+
+<!-- Project2 Digital Culture Gathering -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -72,7 +95,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **[Culture Thrives on Communication: Digital Culture Gathering](https://www.figma.com/proto/iuA8mChUQLdR6jM9Rcj9PG/Untitled?t=GvvruY2HTnZ6Gsk7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=0-447)**
+  **[Culture Thrives on Communication: Digital Culture Gathering](https://www.figma.com/proto/iuA8mChUQLdR6jM9Rcj9PG/Untitled?t=GvvruY2HTnZ6Gsk7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=0-447)** - Completed
 
   **My Role:** Project Team Lead & UX Designer
 
@@ -85,7 +108,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
 </div>
 
-<!-- Project2 ilease -->
+<!-- Project3 ilease -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -95,7 +118,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **[iLease: The Easy Way to List and Find House](https://ischool.uw.edu/capstone/projects/2024/ilease-easy-way-list-and-find-house)**
+  **[iLease: The Easy Way to List and Find House](https://ischool.uw.edu/capstone/projects/2024/ilease-easy-way-list-and-find-house)** - Completed
 
   **My Role:** UX Designer & Front-end Developer
 
