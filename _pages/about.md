@@ -21,9 +21,7 @@ redirect_from:
 
 I am Zonglin Zuo, a master's student in [Information Science](https://infosci.cornell.edu/) at **[Cornell Bowers CIS](https://cis.cornell.edu/)**, specializing in *Human-Computer Interaction (HCI) and UX Research*. I graduated Magna Cum Laude from the **University of Washington's [Information School](https://ischool.uw.edu/)** with a B.S. in Informatics, achieving a major GPA of 3.98.
 
-I have research experience at prestigious institutions such as the **Hong Kong University of Science and Technology** and **Tsinghua University**. At Tsinghua University’s Future Lab, I collaborated with [Professor Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), [Dr. Cheng Xue](https://thfl.tsinghua.edu.cn/en/yjdw/Alumni1/Central_Organization1/Research_Center_for_Aging_User_Experience_and_Ser1/Cheng_Xue.htm), and [Xinran Jiang](https://www.nua.edu.cn/main.htm). At HKUST, I worked with [Professor Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) on HCI and cultural heritage research. 
-
-My interests include **Human-Computer Interaction, User Experiences, Cultural Heritage, and Large Language Models(LLMs)**. I have led teams, conducted extensive user research, and developed innovative solutions, resulting in increased engagement and practical applications. My work has been recognized at top-tier conferences, and my passion lies in collaborative, interdisciplinary work aimed at advancing the HCI field.
+I’m a creative designer passionate about crafting engaging visual experiences and advancing HCI through collaborative, interdisciplinary work. My interests include **Human-Computer Interaction, User Experiences, Cultural Heritage, and Large Language Models(LLMs)**. I have led teams, conducted extensive user research, and developed innovative solutions, resulting in increased engagement and practical applications. My work has been recognized at top-tier conferences, and my passion lies in collaborative, interdisciplinary work aimed at advancing the HCI field.
 
 # 🔥 News
 - *2024.10*: &nbsp;🏆  UbiComp 2024 Best Poster Award.
@@ -32,14 +30,14 @@ My interests include **Human-Computer Interaction, User Experiences, Cultural He
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp 2024</div><img src='images/dogchat_paper1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp 2024 🏆</div><img src='images/dogchat_paper1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DogChat: A Pet-centered Smart Collar Prototype based on Large Language Models and Wechat](https://doi.org/10.1145/3675094.3677606)
+[DogChat: A Pet-centered Smart Collar Prototype based on Large Language Models and Wechat](https://doi.org/10.1145/3675094.3677606) -- 🏆 Best Poster Award
 
 Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu 
 
-[**🏆 Best Poster Award**](https://drive.google.com/file/d/1CYP44VLa2wm0fKVz0Fc7rFm6AXpURpkn/view?usp=sharing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Detail**](https://zonglin.webflow.io/project/dog-chat) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This study explores how large language models (LLMs) based smart collars can enable pets to express themselves and interact with their owners through social media. 
 - **The system operates in three phases**: Pet Profile Construction, Daily Experience Reconstruction, and Behavior Learning Integration. 
 </div>
@@ -86,12 +84,12 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
 </div>
 
-<!-- Project2 Digital Culture Gathering -->
+<!-- Project 2 Digital Culture Gathering -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge"></div>
-      <img src='images/project1.jpg' alt="sym" width="100%">
+      <img src='images/culturalproject profile.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -100,7 +98,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
   **My Role:** Project Team Lead & UX Designer
 
-  [**PDF**](https://www.figma.com/proto/iuA8mChUQLdR6jM9Rcj9PG/Untitled?t=GvvruY2HTnZ6Gsk7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=0-447) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  [**Project Detail**](https://www.figma.com/proto/iuA8mChUQLdR6jM9Rcj9PG/Untitled?t=GvvruY2HTnZ6Gsk7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=0-447) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   - **Project Overview**：This project introduced an ***interactive platform*** for people from different cultural backgrounds to share and experience traditional cultures, promoting cultural heritage and education. It also encourages community members to actively participate, *building a diverse and inclusive cultural community*.
   - **What I Did**: 
   1. Led and managed project teams to ensure timely project delivery, utilizing Azure DevOps for efficient task allocation, progress tracking, and collaborative workflow optimization, resulting in the successful achievement of project milestones and objectives.
@@ -109,7 +107,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
 </div>
 
-<!-- Project3 ilease -->
+<!-- Project 4 ilease -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -123,7 +121,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
   **My Role:** UX Designer & Front-end Developer
 
-  [**PDF**](https://ischool.uw.edu/sites/default/files/capstone/2024/11704/iLease.pdf)
+  [**Project Detail**](https://ischool.uw.edu/sites/default/files/capstone/2024/11704/iLease.pdf)
   - **Project Overview**：***Subletting*** is a common solution for University of Washington students struggling to cover high rents during breaks. However, finding suitable tenants often proves difficult. This financial pressure led our team to develop ***a reliable platform*** that connects *UW leaseholders with potential tenants*.
   - **What I Did**: 
   1. Defined the problem statement and guided the project with 5 research questions, conducting a comprehensive literature review (30+ sources) and market research (26 studies), which were synthesized into 18 key insights using affinity mapping in Miro.
