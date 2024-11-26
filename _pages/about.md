@@ -71,7 +71,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **[UX/UI for Google Cloud Product Discovery]()** - In Progress
+  **[1. UX/UI for Google Cloud Product Discovery]()** - In Progress
 
   **My Role:** UX Designer & Project Manager
 
@@ -84,7 +84,31 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
 </div>
 
-<!-- Project 2 Digital Culture Gathering -->
+<!-- Project 2 Tea Melody -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge"></div>
+      <img src='images/teaproject.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **[2. B2B Proejct: Tea Melodies]()** - Completed
+
+  **My Role:** UX Design Lead
+
+  [**Project Detail**](https://zonglin.webflow.io/project/webflow-website) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  - **Project Overview**：This project leverages digital tools to modernize the traditional tea industry, focusing on transforming a tea plantation in Guangdong. It provides an efficient management platform for staff and machinery collaboration and a WeChat Mini Program to enhance the consumer shopping experience. 
+  - **What I Did right now**: 
+  1. I conducted user interviews and field studies to gather insights from local farmers, managers, and consumers, which informed the design direction. 
+  2. I created low-fidelity sketches and facilitated user testing sessions to refine the designs iteratively.
+  3. I developed high-fidelity prototypes that aligned with user needs and project goals, ensuring the solution was both practical and impactful.
+  </div>
+</div>
+
+<!-- Project 3 Digital Culture Gathering -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -94,11 +118,11 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **[Culture Thrives on Communication: Digital Culture Gathering](https://www.figma.com/proto/iuA8mChUQLdR6jM9Rcj9PG/Untitled?t=GvvruY2HTnZ6Gsk7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=0-447)** - Completed
+  **[3. Culture Thrives on Communication: Digital Culture Gathering](https://www.figma.com/proto/iuA8mChUQLdR6jM9Rcj9PG/Untitled?t=GvvruY2HTnZ6Gsk7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=0-447)** - Completed
 
   **My Role:** Project Team Lead & UX Designer
 
-  [**Project Detail**](https://www.figma.com/proto/iuA8mChUQLdR6jM9Rcj9PG/Untitled?t=GvvruY2HTnZ6Gsk7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=0-447) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  [**Project Detail**](https://zonglin.webflow.io/project/3d-abstract-wallpaper) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   - **Project Overview**：This project introduced an ***interactive platform*** for people from different cultural backgrounds to share and experience traditional cultures, promoting cultural heritage and education. It also encourages community members to actively participate, *building a diverse and inclusive cultural community*.
   - **What I Did**: 
   1. Led and managed project teams to ensure timely project delivery, utilizing Azure DevOps for efficient task allocation, progress tracking, and collaborative workflow optimization, resulting in the successful achievement of project milestones and objectives.
@@ -117,7 +141,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **[iLease: The Easy Way to List and Find House](https://ischool.uw.edu/capstone/projects/2024/ilease-easy-way-list-and-find-house)** - Completed
+  **[4. iLease: The Easy Way to List and Find House](https://ischool.uw.edu/capstone/projects/2024/ilease-easy-way-list-and-find-house)** - Completed
 
   **My Role:** UX Designer & Front-end Developer
 
