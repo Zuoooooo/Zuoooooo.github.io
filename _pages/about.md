@@ -66,21 +66,20 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   <div class='paper-box-image'>
     <div>
       <div class="badge"></div>
-      <img src='images/google3.jpg' alt="sym" width="100%">
+      <img src='images/googlecloud.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **1. UX/UI for Google Cloud Product Discovery** - In Progress
+  **1. UX/UI for Google Cloud Product Discovery** - Completed
 
   **My Role:** UX Designer & Project Manager
 
   **Project Sponsored By:** Google LLC
   - **Project Overview**：Redesign how Cloud products are presented, using an e-commerce approach to help users easily "shop" for services. Deliverables include a UX design lifecycle with content strategy, user flows, and design mockups.
-  - **What I Did right now**: 
-  1. Lead projects and ensure alignment during disagreements, keeping the team on the right track.
-  2. Conduct in-depth competitive analysis to identify 7+ key opportunities. 
-  3. Perform UX and usability assessments to enhance user experience across multiple dimensions.
+  - **What I Did**: 
+  1. Executed tasks including cloud product discovery, UX audit, development of user personas, competitive analysis, stakeholder interviews, and iterative design.
+  2. Enhanced key user flows and information architecture, improved interface consistency and scalability by leveraging current GCP design systems.
   </div>
 </div>
 
@@ -101,7 +100,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   [**Project Detail**](https://zonglin.webflow.io/project/webflow-website) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
   - **Project Overview**：This project leverages digital tools to modernize the traditional tea industry, focusing on transforming a tea plantation in Guangdong. It provides an efficient management platform for staff and machinery collaboration and a WeChat Mini Program to enhance the consumer shopping experience. 
-  - **What I Did right now**: 
+  - **What I Did**: 
   1. I conducted user interviews and field studies to gather insights from local farmers, managers, and consumers, which informed the design direction. 
   2. I created low-fidelity sketches and facilitated user testing sessions to refine the designs iteratively.
   3. I developed high-fidelity prototypes that aligned with user needs and project goals, ensuring the solution was both practical and impactful.
