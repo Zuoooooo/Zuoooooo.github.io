@@ -50,7 +50,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 - ***2021.09 - 2024.06:*** Annual Dean's List from University of Washington
 
 # 📖 Educations
-- ***2024.07 - 2025.05 (Now):***
+- ***2024.07 - 2025.05:***
   <dd>Cornell University, Master in Information Science</dd>
 - ***2021.09 - 2024.06:***
   <dd>University of Washington, B.S. in Informatics</dd>
