@@ -71,7 +71,9 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **1. UX/UI for Google Cloud Product Discovery** - Completed
+  <p style="color: red;">
+    <strong>1. UX/UI for Google Cloud Product Discovery</strong>
+  </p>
 
   **My Role:** UX Designer & Project Manager
 
@@ -93,7 +95,10 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **2. B2B Proejct: Tea Melodies** - Completed
+  <p style="color: red;">
+    <strong>2. B2B Proejct: Tea Melodies</strong>
+  </p>
+  
 
   **My Role:** UX Design Lead
 
@@ -117,7 +122,9 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **3. Culture Thrives on Communication: Digital Culture Gathering** - Completed
+   <p style="color: red;">
+    <strong>3. Culture Thrives on Communication: Digital Culture Gathering</strong>
+  </p>
 
   **My Role:** Project Team Lead & UX Designer
 
@@ -140,7 +147,9 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **4. iLease: The Easy Way to List and Find House** - Completed
+  <p style="color: red;">
+    <strong>4. iLease: The Easy Way to List and Find House</strong>
+  </p>
 
   **My Role:** UX Designer & Front-end Developer
 
