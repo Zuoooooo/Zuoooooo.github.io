@@ -50,7 +50,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 - ***2021.09 - 2024.06:*** Annual Dean's List from University of Washington
 
 # 📖 Educations
-- ***2024.07 - 2025.05:***
+- ***2024.08 - 2025.05:***
   <dd>Cornell University, Master in Information Science</dd>
 - ***2021.09 - 2024.06:***
   <dd>University of Washington, B.S. in Informatics</dd>
@@ -77,8 +77,10 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
   **My Role:** UX Designer & Project Manager
 
-  **Project Sponsored By:** Google LLC
-  - **Project Overview**：Redesign how Cloud products are presented, using an e-commerce approach to help users easily "shop" for services. Deliverables include a UX design lifecycle with content strategy, user flows, and design mockups.
+  [**Project Detail**](https://www.zonglinzuo.com/project/sponsor-project) 
+
+  - **Project Overview**：This project, sponsored by Google, involved redesigning the presentation of cloud products with an e-commerce approach, making it easy for users to "shop" for services. The deliverables included a comprehensive UX design lifecycle featuring content strategy, user flows, and design mockups.
+
   - **What I Did**: 
   1. Executed tasks including cloud product discovery, UX audit, development of user personas, competitive analysis, stakeholder interviews, and iterative design.
   2. Enhanced key user flows and information architecture, improved interface consistency and scalability by leveraging current GCP design systems.
@@ -128,7 +130,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
   **My Role:** Project Team Lead & UX Designer
 
-  [**Project Detail**](https://zonglin.webflow.io/project/3d-abstract-wallpaper) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  [**Project Detail**](https://zonglin.webflow.io/project/3d-abstract-wallpaper) 
   - **Project Overview**：This project introduced an ***interactive platform*** for people from different cultural backgrounds to share and experience traditional cultures, promoting cultural heritage and education. It also encourages community members to actively participate, *building a diverse and inclusive cultural community*.
   - **What I Did**: 
   1. Led and managed project teams to ensure timely project delivery, utilizing Azure DevOps for efficient task allocation, progress tracking, and collaborative workflow optimization, resulting in the successful achievement of project milestones and objectives.
@@ -153,7 +155,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
   **My Role:** UX Designer & Front-end Developer
 
-  [**Project Detail**](https://ischool.uw.edu/sites/default/files/capstone/2024/11704/iLease.pdf)
+  [**Project Detail**](https://ischool.uw.edu/capstone/projects/2024/ilease-easy-way-list-and-find-house)
   - **Project Overview**：***Subletting*** is a common solution for University of Washington students struggling to cover high rents during breaks. However, finding suitable tenants often proves difficult. This financial pressure led our team to develop ***a reliable platform*** that connects *UW leaseholders with potential tenants*.
   - **What I Did**: 
   1. Defined the problem statement and guided the project with 5 research questions, conducting a comprehensive literature review (30+ sources) and market research (26 studies), which were synthesized into 18 key insights using affinity mapping in Miro.
